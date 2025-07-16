@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-pro854&label=Profile%20views&color=0e75b6&style=flat" alt="manish-pro854" /> </p>
 
-- 🔭 I’m currently working on [HelpMe – Job Assistance Platform](http://help-mee.netlify.app)
+- 🔭 I’m currently working on [HelpMe – Job Assistance Platform](http://help-mee.netlify.app) <span>--A platform that connects job seekers with helpers for small tasks and freelance opportunities.</span>
 
 - 🌱 I’m currently learning **React | Next.js | Tailwind CSS | Web Optimization**
 
