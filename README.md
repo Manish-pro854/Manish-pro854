@@ -1,65 +1,36 @@
 <h1 align="center">Hi 👋, I'm Manish Ahlawat</h1>
-<h3 align="center">Frontend Developer | Computer Science Student | Tech Enthusiast</h3>
+<h3 align="center">Creative frontend developer focused on building modern web apps</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7E017&center=true&vCenter=true&width=435&lines=Turning+ideas+into+interactive+UI;React+%7C+Tailwind+%7C+JavaScript;Building+real+projects+with+passion" alt="Typing SVG" />
+<img align = "right" alt="coding" width="400" src="Gallery/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-pro854&label=Profile%20views&color=0e75b6&style=flat" alt="manish-pro854" /> </p>
+
+- 🔭 I’m currently working on [HelpMe – Job Assistance Platform](http://help-mee.netlify.app)
+
+- 🌱 I’m currently learning **React | Next.js | Tailwind CSS | Web Optimization**
+
+- 👨‍💻 All of my projects are available at [http://manish-portpolio.netlify.app](http://manish-portpolio.netlify.app)
+
+- 💬 Ask me about **I’d love to talk about frontend development, React, Tailwind CSS, real-world projects, or anything related to building beautiful and functional web interfaces.**
+
+- 📫 How to reach me **manishsoftengineer3@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/Ankit%20Kumar/OneDrive/Desktop/Manish%20resume.pdf](file:///C:/Users/Ankit%20Kumar/OneDrive/Desktop/Manish%20resume.pdf)
+
+- ⚡ Fun fact **I once fixed a bug by taking a walk and thinking like the compiler 😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@manishsoftengg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manishsoftengg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-ahlawat-16514925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-ahlawat-16514925a" height="30" width="40" /></a>
+<a href="https://instagram.com/minku_ahlawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minku_ahlawat" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🧑‍💻 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-pro854&show_icons=true&locale=en&layout=compact" alt="manish-pro854" /></p>
 
-- 🎓 B.Tech Computer Science student  
-- 🌱 Currently learning **React Hooks**, **Next.js**, and **Web Optimization**  
-- 🔭 I’m working on **job/task platforms** and **real-world frontend clones**  
-- 💬 Ask me about **React**, **Tailwind CSS**, and **Frontend Tools**  
-- 📫 Reach me at **manishsoftengineer3@gmail.com**  
-- 🌐 [My LinkedIn](https://www.linkedin.com/in/manish-ahlawat-16514925a)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-pro854&show_icons=true&locale=en" alt="manish-pro854" /></p>
 
----
-
-### 💼 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [HelpMe – Job Assistance](https://github.com/Manish-pro854/helpme-job-platform) | A job marketplace connecting workers and helpers | React, Tailwind CSS |
-| [Everything Mall](https://github.com/Manish-pro854/everything-mall) | A modern web app delivering a complete mall experience online | React, Tailwind CSS, WebP |
-| [Ixigo Clone](https://github.com/Manish-pro854/ixigo-flight-clone) | A landing page inspired by the Ixigo flight booking UI | HTML, Tailwind, Swiper.js |
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-pro854&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-pro854&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🔗 Let's Connect
-
-<p>
-  <a href="mailto:manishsoftengineer3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manish-ahlawat-16514925a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Manish-pro854"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-> 🚀 *"Building clean, user-friendly interfaces that solve real-world problems."*
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-pro854&" alt="manish-pro854" /></p>
