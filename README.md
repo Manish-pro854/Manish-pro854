@@ -43,9 +43,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,bootstrap,git,github,vscode,figma,framer" />
 </p>
 
-<span>
+
+### 📊 GitHub Stats
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=manish-pro854&show_icons=true&locale=en" alt="GitHub Stats" />
-</span>
-<span>
+</p>
+
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-pro854" alt="GitHub Streak" />
-</span>
+</p>
